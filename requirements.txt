@@ -1,5 +1,5 @@
 # MemOS SDK - 记忆管理系统
-memos
+memoryos
 
 # LangChain 框架
 langchain>=0.3.0

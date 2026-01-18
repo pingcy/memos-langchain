@@ -160,7 +160,7 @@ agent = create_agent(
 
 | 依赖 | 版本 | 说明 |
 |------|------|------|
-| `memos` | latest | MemOS SDK - 记忆管理系统 |
+| `memoryos` | latest | MemOS SDK - 记忆管理系统 |
 | `langchain` | >=0.3.0 | LangChain 框架 |
 | `langchain-openai` | latest | LangChain OpenAI 集成 |
 | `langchain-tavily` | latest | Tavily 搜索工具 |

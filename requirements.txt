@@ -1,0 +1,14 @@
+# MemOS SDK - 记忆管理系统
+memos
+
+# LangChain 框架
+langchain>=0.3.0
+langchain-openai
+langchain-tavily
+langgraph
+
+# 环境变量管理
+python-dotenv
+
+# Neo4j Python 驱动 (MemOS tree_text 后端依赖)
+neo4j
